@@ -12,7 +12,7 @@
 - custom variables for color and font 
 
 ### Deployment link:
-- https://1-resume-project.vercel.app/
+- [https://1-resume-project.vercel.app/](https://gsharma03.github.io/Resume/)
 
 
 
